@@ -2,13 +2,13 @@
 
 Course-related files for **Introduction to Natural Healing**, Tsinghua University, Spring 2026.
 
-This repository contains the course syllabus, weekly homework documents, and final project materials collected while taking the course.
+This repository contains the course syllabus, weekly homework documents, course reflection, and final project materials collected while taking the course.
 
 ## Structure
 
 ```text
 .
-├── Final/       # Final project draft and presentation slides
+├── Final/       # Course reflection, final project draft, and presentation slides
 ├── Homework/    # Weekly journal submissions, one file per assignment
 └── Syllabus/    # Course syllabus
 ```
