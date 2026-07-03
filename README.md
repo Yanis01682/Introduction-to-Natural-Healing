@@ -4,6 +4,12 @@ Course-related files for **Introduction to Natural Healing**, Tsinghua Universit
 
 This repository contains the course syllabus, weekly homework documents, course reflection, and final project materials collected while taking the course.
 
+## 中文说明
+
+这是 2026 春清华大学 **自然疗愈基础** 课程相关资料整理。
+
+仓库包含课程大纲、每周作业、课程反思和期末项目材料，主要用于个人学习记录和课程回顾。部分原始课程材料可能属于课程组或学校。
+
 ## Structure
 
 ```text
